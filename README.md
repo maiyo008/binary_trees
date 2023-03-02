@@ -109,3 +109,14 @@ Write a function that deletes an entire binary tree
 * Where tree is a pointer to the root node of the tree to delete
 * If tree is NULL, do nothing
 </Details>
+
+### Task 4
+<Details>
+Write a function that checks if a node is a leaf
+
+* Prototype: int binary_tree_is_leaf(const binary_tree_t *node);
+* Where node is a pointer to the node to check
+* Your function must return 1 if node is a leaf, otherwise 0
+* If node is NULL, return 0
+</Details>
+

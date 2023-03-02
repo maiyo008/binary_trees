@@ -2,7 +2,7 @@
 #include "binary_trees.h"
 
 /**
-* binary_tree_inorder - function that goes through a binary using in-order
+* binary_tree_postorder - function that goes through a binary using post-order
 * @tree: a pointer to the root  node of the trasverse 
 * @func: a pointer to a function to call for each node.
 * The value in the node must be passed as a parameter to this function.

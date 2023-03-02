@@ -1,3 +1,4 @@
+#include <stdlib.h>
 #include "binary_trees.h"
 
 binary_tree_t *sibling(binary_tree_t *node);
